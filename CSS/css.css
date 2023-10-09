@@ -1,0 +1,53 @@
+.tabs:hover {
+    background: fixed;
+    background-color: rgba(96, 102, 169, 0.303);
+    border: 10px;
+    border-radius: 5px;
+    color: black;
+    margin-right: 20px;
+    padding: 5px;
+
+}
+
+.tabs {
+    background-size: 50px;
+    background-color: rgba(239, 13, 13, 0.625);
+    border: 10px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+    padding: 20px;
+}
+
+/* body {
+    background: fixed;
+    background-color: rgb(255, 183, 197);
+    background-size: auto;
+
+} */
+
+body {
+
+    background-image:url("https://www.icegif.com/wp-content/uploads/2022/01/icegif-254.gif");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+nav{
+    background-color: rgb(255, 183, 197);
+    background-size: 100px 100px;
+    padding: 30px;
+}
+
+.sections {
+
+    column-count: 4;
+    column-gap: 20px;
+    column-rule-style: dotted;
+    display:flex;
+    justify-content: center;
+    align-items: start;
+
+
+}
+)
